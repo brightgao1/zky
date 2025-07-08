@@ -5,4 +5,6 @@ zky & zkyCompiler aren't open source, as I don't want AI to be better than me at
 ### Things I've programmed/am programming in zky
 [zkyGUICreator](https://github.com/brightgao1/zkyGUICreator)
 
+[zkyShortcutsApp](https://github.com/brightgao1/zkyShortcutsApp)
+
 ### Benchmarks
