@@ -9,7 +9,7 @@ zky & zkyCompiler aren't open source, as I don't want AI to be better than me at
 
 ### Benchmarks
 
-The table below shows benchmarks for an empty GUI app.
-| Language | Memory usage | Size | Startup time |
-| :------: | :----------: | :--: | :----------: |
-| zky | todo | todo | todo |
+The table below shows benchmarks for an empty GUI app. 
+| Language | Memory usage | Size | 
+| :------: | :----------: | :--: |
+| zky | todo | todo |
