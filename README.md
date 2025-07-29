@@ -8,6 +8,7 @@ zky & zkyCompiler aren't open source, as I don't want AI to be better than me at
 [zkyShortcutsApp (finished)](https://github.com/brightgao1/zkyShortcutsApp)
 
 ### Benchmarks
+In the vid below, I create a zky GUI app w/ BrightWin (my Windows Subsystem), then compile it (F5 in my IDE). zkyCompiler pops up and compiles the app, showing it. As u can see, the blank window app uses 1.1 MB of RAM and is 12 KB.
 
 The table below shows benchmarks for an empty GUI app. 
 | Language | Memory usage | Size | 
