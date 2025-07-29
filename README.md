@@ -12,4 +12,4 @@ zky & zkyCompiler aren't open source, as I don't want AI to be better than me at
 The table below shows benchmarks for an empty GUI app. 
 | Language | Memory usage | Size | 
 | :------: | :----------: | :--: |
-| zky | todo | todo |
+| zky | 1.1 MB | 12 KB |
